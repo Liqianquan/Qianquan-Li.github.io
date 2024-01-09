@@ -34,8 +34,7 @@ My research interest includes cell death and inflammation. Our research group wi
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIAI 2023</div><img src='lunwen1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Global Warming: Temperature Prediction Based on ARIMA]
-(https://dl.acm.org/doi/10.1145/3594409.3594438)
+[Global Warming: Temperature Prediction Based on ARIMA](https://dl.acm.org/doi/10.1145/3594409.3594438)
 
 **Qianquan Li**, Lingyun Zhu
 
