@@ -24,38 +24,44 @@ I will continue my pursuit of a Ph.D. degree at [School of Medicine SongJiang In
 My research interest includes cell death and inflammation. Our research group will comprehensively utilize various experimental methods including cell biology, genetics, structural biology, etc., as well as disease mouse models to further investigate the regulatory mechanisms and physiological and pathological functions of RIPK1.
 
 
-# 🔥 News
-- *2024.09-*: &nbsp;[Shanghai Jiao Tong University](https://www.sjtu.edu.cn/),Shanghai,China.
-- *2020.09-2024.06*: &nbsp;[Wuhan University of Technology](https://www.whut.edu.cn/),Wuhan,China.
-- *2021.09-2024.06*: &nbsp;[Aix-Marseille Université](https://www.univ-amu.fr),Marseille,France
+# 📖 Educations
+- *2024.09 - *: &nbsp;[Shanghai Jiao Tong University](https://www.sjtu.edu.cn/),Shanghai,China.
+- *2020.09 - 2024.06*: &nbsp;[Wuhan University of Technology](https://www.whut.edu.cn/),Wuhan,China.
+- *2021.09 - 2024.06*: &nbsp;[Aix-Marseille Université](https://www.univ-amu.fr),Marseille,France
   
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIAI 2023</div><img src='lunwen1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Global Warming: Temperature Prediction Based on ARIMA]
+(https://dl.acm.org/doi/10.1145/3594409.3594438)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Qianquan Li**, Lingyun Zhu
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Project**](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Global+Warming%3A+Temperature+Prediction+Based+on+ARIMA&btnG=) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- In this paper, we describe the global temperature trends in the past century and the global temperature trends in the next century. The findings indicate that global temperatures have demonstrated an upward tendency in the past and in the future. Global warming will further intensify.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+# 🎖 Honors
+- *2023.10* Outstanding Student in Wuhan University of Technology
+- *2023.10* The First Prize Scholarship in Wuhan University of Technology
+- *2022.10* The Second Prize Scholarship in Wuhan University of Technology
+- *2022.09* Outstanding Team of Hubei University Students' Summer Social Practice Activities in the Countryside
+- *2021.10* Outstanding Student Leader of the school of Chemistry, Chemical Engineering and Life Sciences Academy
+- *2021.10* The Third Prize Scholarship in Wuhan University of Technology
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 🎏 Competitions
+- *2023.09* “ShuWei Cup“ Mathematics Competition National Grand Prize (top 1%)
+- *2023.07* Statistical Modeling Competition Provincial Second Prize
+- *2023.07* “Internet +” Innovation and Entrepreneurship Competition Silver Award（The Wuhan University of Technology division）
+- *2023.06* Hubei Biological Laboratory Skills Competition Provincial First Prize
+- *2023.04* Mathematical Contest In Modeling International Third Prize
+- *2022.12* Asia and Pacific Mathematical Contest in Modeling International Third Prize
+- *2022.11* Hubei Translation Competition Excellent Award
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2022.09 - 2023.07* Exchange students of [Institute of Aquatic Sciences, Chinese Academy of Sciences](http://www.ihb.ac.cn), Wuhan, China.
+- *2022.12 - 2023.02* Research Assistant of [Center of Excellence in Molecular Cell Science, Chinese Academy of Sciences](http://cemcs.cas.cn), Shanghai, China
+- *2023.10 - 2024.01（now）* Intern, Biologics Development of [Humanwell Healthcare](http://www.humanwell.com.cn), Wuhan, China
