@@ -25,7 +25,7 @@ My research interest includes cell death and inflammation. Our research group wi
 
 
 # 📖 Educations
-- *2024.09 - *: &nbsp;[Shanghai Jiao Tong University](https://www.sjtu.edu.cn/),Shanghai,China.
+- *2024.09 -* : &nbsp;[Shanghai Jiao Tong University](https://www.sjtu.edu.cn/),Shanghai,China.
 - *2020.09 - 2024.06*: &nbsp;[Wuhan University of Technology](https://www.whut.edu.cn/),Wuhan,China.
 - *2021.09 - 2024.06*: &nbsp;[Aix-Marseille Université](https://www.univ-amu.fr),Marseille,France
   
