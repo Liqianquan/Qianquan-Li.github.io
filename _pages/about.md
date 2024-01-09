@@ -21,7 +21,7 @@ I am now a Fourth-year undergraduate student from [School of Chemistry, Chemical
 
 I will continue my pursuit of a Ph.D. degree at [School of Medicine SongJiang Institute](https://www.shsmu.edu.cn/sri/), [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/).I am very fortunate to be advised by [Prof. Zhang](https://www.shsmu.edu.cn/sri/kxyj/yjdw1/yjy/z_t.htm) of Zhang Lab, Shanghai Jiao Tong University. 
 
-My research interest includes cell death and inflammation.RIPK1 is a key kinase that regulates both cell death and inflammation.In recent years, multiple studies have shown that RIPK1-mediated cell death and inflammation play important roles in human diseases, particularly in neurodegenerative diseases where activation of RIPK1 has been found to be closely associated with neuronal cell death, neuroinflammation, and pathological changes. Our research group will comprehensively utilize various experimental methods including cell biology, genetics, structural biology, etc., as well as disease mouse models to further investigate the regulatory mechanisms and physiological and pathological functions of RIPK1.
+My research interest includes cell death and inflammation. Our research group will comprehensively utilize various experimental methods including cell biology, genetics, structural biology, etc., as well as disease mouse models to further investigate the regulatory mechanisms and physiological and pathological functions of RIPK1.
 
 
 # 🔥 News
