@@ -17,15 +17,18 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am now a Fourth-year undergraduate student from [School of Chemistry, Chemical Engineering and Life Sciences](http://sccels.whut.edu.cn), [Wuhan University of Technology](https://www.whut.edu.cn/),mainly engaged in the research of Molecular biology and Synthetic biology.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I will continue my pursuit of a Ph.D. degree at [School of Medicine SongJiang Institute](https://www.shsmu.edu.cn/sri/), [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/).I am very fortunate to be advised by [Prof. Zhang](https://www.shsmu.edu.cn/sri/kxyj/yjdw1/yjy/z_t.htm) of Zhang Lab, Shanghai Jiao Tong University. 
+
+My research interest includes cell death and inflammation.RIPK1 is a key kinase that regulates both cell death and inflammation.In recent years, multiple studies have shown that RIPK1-mediated cell death and inflammation play important roles in human diseases, particularly in neurodegenerative diseases where activation of RIPK1 has been found to be closely associated with neuronal cell death, neuroinflammation, and pathological changes. Our research group will comprehensively utilize various experimental methods including cell biology, genetics, structural biology, etc., as well as disease mouse models to further investigate the regulatory mechanisms and physiological and pathological functions of RIPK1.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
+- *2024.09-*: &nbsp;[Shanghai Jiao Tong University](https://www.sjtu.edu.cn/),Shanghai,China.
+- *2020.09-2024.06*: &nbsp;[Wuhan University of Technology](https://www.whut.edu.cn/),Wuhan,China.
+- *2021.09-2024.06*: &nbsp;[Aix-Marseille Université](https://www.univ-amu.fr),Marseille,France
+  
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
