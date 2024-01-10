@@ -52,7 +52,7 @@ My research interest includes cell death and inflammation. Our research group wi
 - *2021.10* The Third Prize Scholarship in Wuhan University of Technology
 
 # 🎏 Competitions
-- *2023.09* “ShuWei Cup“ Mathematics Competition National Grand Prize (top 1%)
+- *2023.09* “ShuWei Cup” Mathematics Competition National Grand Prize (top 1%)
 - *2023.07* Statistical Modeling Competition Provincial Second Prize
 - *2023.07* “Internet +” Innovation and Entrepreneurship Competition Silver Award（The Wuhan University of Technology division）
 - *2023.06* Hubei Biological Laboratory Skills Competition Provincial First Prize
@@ -61,6 +61,6 @@ My research interest includes cell death and inflammation. Our research group wi
 - *2022.11* Hubei Translation Competition Excellent Award
 
 # 💻 Internships
-- *2022.09 - 2023.07*, Exchange students of [Institute of Aquatic Sciences, Chinese Academy of Sciences](http://www.ihb.ac.cn), Wuhan, China.
+- *2022.09 - 2023.07*, Exchange students of [Institute of Hydrobiology, Chinese Academy of Sciences](http://www.ihb.ac.cn), Wuhan, China.
 - *2022.12 - 2023.02*, Research Assistant of [Center of Excellence in Molecular Cell Science, Chinese Academy of Sciences](http://cemcs.cas.cn), Shanghai, China
 - *2023.10 - 2024.01(now)*, Intern, Biologics Development of [Humanwell Healthcare](http://www.humanwell.com.cn), Wuhan, China
